@@ -2,15 +2,17 @@
 This repo shows the LC problems I have solved.
 
 ## Array
-1. Two Sum [[url]](https://leetcode.com/problems/two-sum/description/)
-57. Insert Interval  [[url]](https://leetcode.com/problems/insert-interval/description/)
-238. Product of Array Except Self  [[url]](https://leetcode.com/problems/product-of-array-except-self/description/)
+1.  [[Two Sum]](https://leetcode.com/problems/two-sum/description/)
+57. [[Insert Interval]](https://leetcode.com/problems/insert-interval/description/)
+238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/)
 
 ## Hash table
-169. Majority Element [[url]](https://leetcode.com/problems/majority-element/description/)
-217.Contains Duplicate [[url]](https://leetcode.com/problems/contains-duplicate/description/)
+169. [[Majority Element]](https://leetcode.com/problems/majority-element/description/)
+217. [[Contains Duplicate]](https://leetcode.com/problems/contains-duplicate/description/)
 ## String
-412. Fizz Buzz [[url]](https://leetcode.com/problems/fizz-buzz/description/)
+412. [[Fizz_Buzz]](https://leetcode.com/problems/fizz-buzz/description/) [Python]()
+14.  [[Longest_Common_Prefix]](https://leetcode.com/problems/fizz-buzz/description/) [Python]()
+409. [[Longest Palindrome]](https://leetcode.com/problems/fizz-buzz/description/) [Python]()
 
 ## Dynamic Programing
-121. Best Time to Buy and Sell Stock  [[url]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) solution [[url]](https://labuladong.online/algo/dynamic-programming/stock-problem-summary/)
+121. [[Best Time to Buy and Sell Stock]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) [Python]()
