@@ -9,10 +9,11 @@ This repo shows the LC problems I have solved.
 ## Hash table
 169. [[Majority Element]](https://leetcode.com/problems/majority-element/description/)
 217. [[Contains Duplicate]](https://leetcode.com/problems/contains-duplicate/description/)
+383. [[Contains Duplicate]](
 ## String
 412. [[Fizz_Buzz]](https://leetcode.com/problems/fizz-buzz/description/) [Python]()
 14.  [[Longest_Common_Prefix]](https://leetcode.com/problems/fizz-buzz/description/) [Python]()
-409. [[Longest Palindrome]](https://leetcode.com/problems/fizz-buzz/description/) [Python]()
+409. [[Ransom Note]](https://leetcode.com/problems/ransom-note/description/) [Python]()
 
 ## Dynamic Programing
 121. [[Best Time to Buy and Sell Stock]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) [Python]()
