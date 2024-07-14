@@ -16,5 +16,7 @@ This repo shows the LC problems I have solved.
 14.  [[Longest_Common_Prefix]](https://leetcode.com/problems/longest-common-prefix/description/) [Python]()
 409. [[Longest Palindrome]](https://leetcode.com/problems/longest-palindrome/description/)[Python]()
 
+## Stack
+150. [[Evaluate Reverse Polish Notation]](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
 ## Dynamic Programing
 121. [[Best Time to Buy and Sell Stock]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)[Python]()
