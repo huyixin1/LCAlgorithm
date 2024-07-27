@@ -26,3 +26,4 @@ This repo shows the LC problems I have solved.
 20. [[Valid Parentheses]](https://leetcode.com/problems/valid-parentheses/description/)
 ## Dynamic Programing
 121. [[Best Time to Buy and Sell Stock]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/Dynamic/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
+232. [[Implement Queue using Stacks]](https://leetcode.com/problems/implement-queue-using-stacks/description/)[Python]()
