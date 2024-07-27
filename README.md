@@ -5,6 +5,8 @@ This repo shows the LC problems I have solved.
 1.  [[Two Sum]](https://leetcode.com/problems/two-sum/description/)[Python]()
 57. [[Insert Interval]](https://leetcode.com/problems/insert-interval/description/)[Python]()
 238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/)[Python]()
+56. [[Merge Intervals]](https://leetcode.com/problems/merge-intervals/description/)[Python]()
+
 ### backtrack
 39. [[Combination Sum]](https://leetcode.com/problems/combination-sum/description/)[Python]()
 46. [[Permutations]](https://leetcode.com/problems/permutations/)[Python]()
