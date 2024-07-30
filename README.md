@@ -22,6 +22,7 @@ This repo shows the LC problems I have solved.
 ## String
 412. [[Fizz_Buzz]](https://leetcode.com/problems/fizz-buzz/description/) [Python]()
 125. [[Valid Palindrome]](https://leetcode.com/problems/valid-palindrome/) [Python]()
+242. [[Valid Anagram]](https://leetcode.com/problems/valid-anagram/description/) [Python]()
 14.  [[Longest_Common_Prefix]](https://leetcode.com/problems/longest-common-prefix/description/) [Python](https://github.com/huyixin1/LCAlgorithm/blob/main/String/Longest%20Common%20Prefix.py)
 409. [[Longest Palindrome]](https://leetcode.com/problems/longest-palindrome/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/String/Longest%20Palindrome.py)
 844.[[Backspace String Compare]](https://leetcode.com/problems/backspace-string-compare/description/) [Python]()
