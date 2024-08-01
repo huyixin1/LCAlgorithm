@@ -6,12 +6,13 @@ This repo shows the LC problems I have solved.
 57. [[Insert Interval]](https://leetcode.com/problems/insert-interval/description/)[Python]()
 238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/)[Python]()
 56. [[Merge Intervals]](https://leetcode.com/problems/merge-intervals/description/)[Python]()
-77. [[Combinations]](https://leetcode.com/problems/combinations/description/)
-78. [[Subsets]](https://leetcode.com/problems/subsets/description/)
 
-### backtrack
+## recrution
 39. [[Combination Sum]](https://leetcode.com/problems/combination-sum/description/)[Python]()
 46. [[Permutations]](https://leetcode.com/problems/permutations/)[Python]()
+77. [[Combinations]](https://leetcode.com/problems/combinations/description/) [Python]()
+78. [[Subsets]](https://leetcode.com/problems/subsets/description/) [Python]()
+
 
 
 ## Hash table
@@ -26,9 +27,11 @@ This repo shows the LC problems I have solved.
 14.  [[Longest_Common_Prefix]](https://leetcode.com/problems/longest-common-prefix/description/) [Python](https://github.com/huyixin1/LCAlgorithm/blob/main/String/Longest%20Common%20Prefix.py)
 409. [[Longest Palindrome]](https://leetcode.com/problems/longest-palindrome/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/String/Longest%20Palindrome.py)
 844.[[Backspace String Compare]](https://leetcode.com/problems/backspace-string-compare/description/) [Python]()
-### Sliding window
-3. [[Longest Substring Without Repeating Characters]](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) [Python]()
 
+## Sliding window
+3. [[Longest Substring Without Repeating Characters]](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) [Python]()
+438. [[Find All Anagrams in a String]](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) [Python]()
+567. [[Permutation in String]](https://leetcode.com/problems/permutation-in-string/description/) [Python]()
 
 ## Stack
 150. [[Evaluate Reverse Polish Notation]](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) [Python]()
