@@ -26,6 +26,9 @@ This repo shows the LC problems I have solved.
 14.  [[Longest_Common_Prefix]](https://leetcode.com/problems/longest-common-prefix/description/) [Python](https://github.com/huyixin1/LCAlgorithm/blob/main/String/Longest%20Common%20Prefix.py)
 409. [[Longest Palindrome]](https://leetcode.com/problems/longest-palindrome/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/String/Longest%20Palindrome.py)
 844.[[Backspace String Compare]](https://leetcode.com/problems/backspace-string-compare/description/) [Python]()
+### Sliding window
+3. [[Longest Substring Without Repeating Characters]](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) [Python]()
+
 
 ## Stack
 150. [[Evaluate Reverse Polish Notation]](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) [Python]()
