@@ -39,6 +39,14 @@ This repo shows the LC problems I have solved.
 739. [[Daily Temperatures]](https://leetcode.com/problems/daily-temperatures/description/) [Python]()
 496. [[Next Greater Element I]](https://leetcode.com/problems/next-greater-element-i/description/) [Python]()
 
+## Binary Tree
+226. [[Invert Binary Tree]](https://leetcode.com/problems/invert-binary-tree/description/) [Python]()
+110. [[Balanced Binary Tree]](https://leetcode.com/problems/balanced-binary-tree/description/) [Python]()
+543. [[Diameter of Binary Tree]](https://leetcode.com/problems/diameter-of-binary-tree/description/) [Python]()
+236. [[Lowest Common Ancestor of a Binary Tree]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Python]()
+102. [[Binary Tree Level Order Traversal]](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [Python]()
+236. [[Lowest Common Ancestor of a Binary Tree]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Python]()
+
 
 ## Dynamic Programing
 121. [[Best Time to Buy and Sell Stock]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/Dynamic/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) [Python]()
