@@ -7,13 +7,12 @@ This repo shows the LC problems I have solved.
 238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/)[Python]()
 56. [[Merge Intervals]](https://leetcode.com/problems/merge-intervals/description/)[Python]()
 
-## recrution
+## Recrution
 39. [[Combination Sum]](https://leetcode.com/problems/combination-sum/description/)[Python]()
 46. [[Permutations]](https://leetcode.com/problems/permutations/)[Python]()
 77. [[Combinations]](https://leetcode.com/problems/combinations/description/) [Python]()
 78. [[Subsets]](https://leetcode.com/problems/subsets/description/) [Python]()
-
-
+394. [[Decode String]](https://leetcode.com/problems/decode-string/description/) [Python]()
 
 ## Hash table
 169. [[Majority Element]](https://leetcode.com/problems/majority-element/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/Array/Majority%20Element.py)
@@ -43,3 +42,4 @@ This repo shows the LC problems I have solved.
 ## Dynamic Programing
 121. [[Best Time to Buy and Sell Stock]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/Dynamic/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) [Python]()
 232. [[Implement Queue using Stacks]](https://leetcode.com/problems/implement-queue-using-stacks/description/) [Python]()
+155. [[Min Stack]](https://leetcode.com/problems/min-stack/description/) [Python]()
