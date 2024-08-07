@@ -14,6 +14,12 @@ This repo shows the LC problems I have solved.
 78. [[Subsets]](https://leetcode.com/problems/subsets/description/) [Python]()
 394. [[Decode String]](https://leetcode.com/problems/decode-string/description/) [Python]()
 
+## Binary Search
+704. [[Binary Search]](https://leetcode.com/problems/binary-search/) [Python]()
+278. [[First Bad Version]](https://leetcode.com/problems/first-bad-version/description/) [Python]()
+33. [[Search in Rotated Sorted Array]](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) [Python]()
+34. [[Find First and Last Position of Element in Sorted Array]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [Python]()
+
 ## Hash table
 169. [[Majority Element]](https://leetcode.com/problems/majority-element/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/Array/Majority%20Element.py)
 217. [[Contains Duplicate]](https://leetcode.com/problems/contains-duplicate/description/)[Python]()
