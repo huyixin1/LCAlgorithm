@@ -51,6 +51,7 @@ This repo shows the LC problems I have solved.
 543. [[Diameter of Binary Tree]](https://leetcode.com/problems/diameter-of-binary-tree/description/) [Python]()
 236. [[Lowest Common Ancestor of a Binary Tree]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Python]()
 100. [[Same Tree]](https://leetcode.com/problems/same-tree/description/) [Python]()
+111. [[Minimum Depth of Binary Tree]](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) [Python]()
 102. [[Binary Tree Level Order Traversal]](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [Python]()
 236. [[Lowest Common Ancestor of a Binary Tree]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Python]()
 105. [[Construct Binary Tree from Preorder and Inorder Traversal]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [Python]()
@@ -64,3 +65,4 @@ This repo shows the LC problems I have solved.
 
 ## Graph
 733. [[Flood Fill]](https://leetcode.com/problems/flood-fill/description/) [Python]()
+542. [[01 Matrix]](https://leetcode.com/problems/01-matrix/description/) [Python]()
