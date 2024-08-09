@@ -66,3 +66,5 @@ This repo shows the LC problems I have solved.
 ## Graph
 733. [[Flood Fill]](https://leetcode.com/problems/flood-fill/description/) [Python]()
 542. [[01 Matrix]](https://leetcode.com/problems/01-matrix/description/) [Python]()
+133. [[Clone Graph]](https://leetcode.com/problems/clone-graph/description/) [Python]()
+200. [[Number of Islands]](https://leetcode.com/problems/number-of-islands/description/) [Python]()
