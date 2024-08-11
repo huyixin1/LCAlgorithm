@@ -1,19 +1,19 @@
 class Solution:
-    # BFS
+    # nearest -> BFS
     def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
         m, n = len(mat), len(mat[0])
 
         res = [[-1 for _ in range(n)] for _ in range(m)] # to mark not visited
 
         q = deque()
-        for i in range(m):
+        for i in range(m): # update all 0
             for j in range(n):
                 if mat[i][j]==0:
                     q.append((i,j))
                     res[i][j] = 0
 
         dirs = [(0,1),(0,-1),(1,0),(-1,0)]
-        while q:
+        while q: # don't need to add by layer
             x, y = q.popleft()
             for dx, dy in dirs:
                 next_x, next_y = x + dx, y + dy

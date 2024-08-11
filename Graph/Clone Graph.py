@@ -8,6 +8,7 @@ class Node:
 
 from typing import Optional
 class Solution:
+    # BFS
     def __init__(self):
         self.original_clone = {} # hashmap with mapping
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:

@@ -69,3 +69,5 @@ This repo shows the LC problems I have solved.
 133. [[Clone Graph]](https://leetcode.com/problems/clone-graph/description/) [Python]()
 200. [[Number of Islands]](https://leetcode.com/problems/number-of-islands/description/) [Python]()
 797. [[All Paths From Source to Target]](https://leetcode.com/problems/all-paths-from-source-to-target/description/) [Python]()
+994. [[Rotting Oranges]](https://leetcode.com/problems/rotting-oranges/description/) [Python]()
+310. [[Minimum Height Trees]](https://leetcode.com/problems/minimum-height-trees/description/) [Python]()
