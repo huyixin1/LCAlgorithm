@@ -47,7 +47,7 @@ This repo shows the LC problems I have solved.
 
 ## Binary Tree
 226. [[Invert Binary Tree]](https://leetcode.com/problems/invert-binary-tree/description/) [Python]()
-110. [[Balanced Binary Tree]](https://leetcode.com/problems/balanced-binary-tree/description/) [Python]()
+10. [[Balanced Binary Tree]](https://leetcode.com/problems/balanced-binary-tree/description/) [Python]()
 543. [[Diameter of Binary Tree]](https://leetcode.com/problems/diameter-of-binary-tree/description/) [Python]()
 236. [[Lowest Common Ancestor of a Binary Tree]](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Python]()
 100. [[Same Tree]](https://leetcode.com/problems/same-tree/description/) [Python]()
@@ -68,3 +68,4 @@ This repo shows the LC problems I have solved.
 542. [[01 Matrix]](https://leetcode.com/problems/01-matrix/description/) [Python]()
 133. [[Clone Graph]](https://leetcode.com/problems/clone-graph/description/) [Python]()
 200. [[Number of Islands]](https://leetcode.com/problems/number-of-islands/description/) [Python]()
+797. [[All Paths From Source to Target]](https://leetcode.com/problems/all-paths-from-source-to-target/description/) [Python]()
