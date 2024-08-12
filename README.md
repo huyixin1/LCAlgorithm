@@ -14,6 +14,11 @@ This repo shows the LC problems I have solved.
 78. [[Subsets]](https://leetcode.com/problems/subsets/description/) [Python]()
 394. [[Decode String]](https://leetcode.com/problems/decode-string/description/) [Python]()
 
+## Linked List
+
+21. [[Merge Two Sorted Lists]](https://leetcode.com/problems/merge-two-sorted-lists/description/) [Python]()
+
+
 ## Binary Search
 704. [[Binary Search]](https://leetcode.com/problems/binary-search/) [Python]()
 278. [[First Bad Version]](https://leetcode.com/problems/first-bad-version/description/) [Python]()
