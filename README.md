@@ -17,6 +17,8 @@ This repo shows the LC problems I have solved.
 ## Linked List
 
 21. [[Merge Two Sorted Lists]](https://leetcode.com/problems/merge-two-sorted-lists/description/) [Python]()
+141. [[Linked List Cycle]](https://leetcode.com/problems/linked-list-cycle/description/) [Python]()
+206. [[Reverse Linked List]](https://leetcode.com/problems/reverse-linked-list/description/) [Python]()
 
 
 ## Binary Search

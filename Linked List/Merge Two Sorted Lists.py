@@ -13,6 +13,6 @@ class Solution:
             else:
                 temp.next = list1
                 list1 = list1.next
-            temp = temp.next
+            temp = temp.next # keep going
         temp.next = list1 or list2
         return dummy.next
