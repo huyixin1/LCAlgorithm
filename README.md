@@ -2,9 +2,11 @@
 This repo shows the LC problems I have solved.
 
 ## Array
-1.  [[Two Sum]](https://leetcode.com/problems/two-sum/description/)[Python]()
+1.  [[Two Sum]](https://leetcode.com/problems/two-sum/description/) [Python]()
+11. [[Container With Most Water]](https://leetcode.com/problems/container-with-most-water/description/) [Python]()
 57. [[Insert Interval]](https://leetcode.com/problems/insert-interval/description/)[Python]()
-238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/)[Python]()
+128. [[Longest Consecutive Sequence]](https://leetcode.com/problems/longest-consecutive-sequence/description/) [Python]()
+238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/) [Python]()
 56. [[Merge Intervals]](https://leetcode.com/problems/merge-intervals/description/)[Python]()
 
 ## Linked List
@@ -82,6 +84,7 @@ This repo shows the LC problems I have solved.
 155. [[Min Stack]](https://leetcode.com/problems/min-stack/description/) [Python]()
 
 ## Graph
+
 733. [[Flood Fill]](https://leetcode.com/problems/flood-fill/description/) [Python]()
 542. [[01 Matrix]](https://leetcode.com/problems/01-matrix/description/) [Python]()
 133. [[Clone Graph]](https://leetcode.com/problems/clone-graph/description/) [Python]()
@@ -89,3 +92,6 @@ This repo shows the LC problems I have solved.
 797. [[All Paths From Source to Target]](https://leetcode.com/problems/all-paths-from-source-to-target/description/) [Python]()
 994. [[Rotting Oranges]](https://leetcode.com/problems/rotting-oranges/description/) [Python]()
 310. [[Minimum Height Trees]](https://leetcode.com/problems/minimum-height-trees/description/) [Python]()
+
+## Math
+204. [[Count Primes]](https://leetcode.com/problems/count-primes/description/) [Python]()
