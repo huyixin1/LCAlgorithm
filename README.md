@@ -7,6 +7,7 @@ This repo shows the LC problems I have solved.
 238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/)[Python]()
 56. [[Merge Intervals]](https://leetcode.com/problems/merge-intervals/description/)[Python]()
 
+
 ## Recrution
 39. [[Combination Sum]](https://leetcode.com/problems/combination-sum/description/)[Python]()
 46. [[Permutations]](https://leetcode.com/problems/permutations/)[Python]()
@@ -17,9 +18,13 @@ This repo shows the LC problems I have solved.
 ## Linked List
 
 21. [[Merge Two Sorted Lists]](https://leetcode.com/problems/merge-two-sorted-lists/description/) [Python]()
+83. [[Remove Duplicates from Sorted List]](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)[Python]()
 141. [[Linked List Cycle]](https://leetcode.com/problems/linked-list-cycle/description/) [Python]()
 206. [[Reverse Linked List]](https://leetcode.com/problems/reverse-linked-list/description/) [Python]()
-
+234. [[Palindrome Linked List]](https://leetcode.com/problems/palindrome-linked-list/description/) [Python]()
+146. [[LRU Cache]](https://leetcode.com/problems/lru-cache/description/) [Python]()
+19. [[Remove Nth Node From End of List]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [Python]()
+24. [[Swap Nodes in Pairs]]()
 
 ## Binary Search
 704. [[Binary Search]](https://leetcode.com/problems/binary-search/) [Python]()
