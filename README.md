@@ -7,14 +7,6 @@ This repo shows the LC problems I have solved.
 238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/)[Python]()
 56. [[Merge Intervals]](https://leetcode.com/problems/merge-intervals/description/)[Python]()
 
-
-## Recrution
-39. [[Combination Sum]](https://leetcode.com/problems/combination-sum/description/)[Python]()
-46. [[Permutations]](https://leetcode.com/problems/permutations/)[Python]()
-77. [[Combinations]](https://leetcode.com/problems/combinations/description/) [Python]()
-78. [[Subsets]](https://leetcode.com/problems/subsets/description/) [Python]()
-394. [[Decode String]](https://leetcode.com/problems/decode-string/description/) [Python]()
-
 ## Linked List
 
 21. [[Merge Two Sorted Lists]](https://leetcode.com/problems/merge-two-sorted-lists/description/) [Python]()
@@ -25,12 +17,6 @@ This repo shows the LC problems I have solved.
 146. [[LRU Cache]](https://leetcode.com/problems/lru-cache/description/) [Python]()
 19. [[Remove Nth Node From End of List]](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [Python]()
 24. [[Swap Nodes in Pairs]]()
-
-## Binary Search
-704. [[Binary Search]](https://leetcode.com/problems/binary-search/) [Python]()
-278. [[First Bad Version]](https://leetcode.com/problems/first-bad-version/description/) [Python]()
-33. [[Search in Rotated Sorted Array]](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) [Python]()
-34. [[Find First and Last Position of Element in Sorted Array]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [Python]()
 
 ## Hash table
 169. [[Majority Element]](https://leetcode.com/problems/majority-element/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/Array/Majority%20Element.py)
@@ -50,6 +36,26 @@ This repo shows the LC problems I have solved.
 3. [[Longest Substring Without Repeating Characters]](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) [Python]()
 438. [[Find All Anagrams in a String]](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) [Python]()
 567. [[Permutation in String]](https://leetcode.com/problems/permutation-in-string/description/) [Python]()
+
+
+## Recrution
+39. [[Combination Sum]](https://leetcode.com/problems/combination-sum/description/)[Python]()
+46. [[Permutations]](https://leetcode.com/problems/permutations/)[Python]()
+77. [[Combinations]](https://leetcode.com/problems/combinations/description/) [Python]()
+78. [[Subsets]](https://leetcode.com/problems/subsets/description/) [Python]()
+394. [[Decode String]](https://leetcode.com/problems/decode-string/description/) [Python]()
+
+## Greedy
+134. [[Gas Station]](https://leetcode.com/problems/gas-station/description/) [Python]()
+
+
+## Binary Search
+704. [[Binary Search]](https://leetcode.com/problems/binary-search/) [Python]()
+278. [[First Bad Version]](https://leetcode.com/problems/first-bad-version/description/) [Python]()
+33. [[Search in Rotated Sorted Array]](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) [Python]()
+34. [[Find First and Last Position of Element in Sorted Array]](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) [Python]()
+
+
 
 ## Stack
 150. [[Evaluate Reverse Polish Notation]](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) [Python]()
