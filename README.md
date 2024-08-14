@@ -8,6 +8,7 @@ This repo shows the LC problems I have solved.
 128. [[Longest Consecutive Sequence]](https://leetcode.com/problems/longest-consecutive-sequence/description/) [Python]()
 238. [[Product of Array Except Self]](https://leetcode.com/problems/product-of-array-except-self/description/) [Python]()
 56. [[Merge Intervals]](https://leetcode.com/problems/merge-intervals/description/)[Python]()
+75. [[Sort Colors]](https://leetcode.com/problems/sort-colors/description/) [Python]()
 
 ## Linked List
 
