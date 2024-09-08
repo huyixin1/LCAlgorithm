@@ -81,9 +81,12 @@ This repo shows the LC problems I have solved.
 
 ## Dynamic Programing
 70. [[Climbing Stairs]](https://leetcode.com/problems/climbing-stairs/description/) [Python]()
+746. [[Min Cost Climbing Stairs]](https://leetcode.com/problems/min-cost-climbing-stairs/description/) [Python]()
 121. [[Best Time to Buy and Sell Stock]](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)[Python](https://github.com/huyixin1/LCAlgorithm/blob/main/Dynamic/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) [Python]()
 232. [[Implement Queue using Stacks]](https://leetcode.com/problems/implement-queue-using-stacks/description/) [Python]()
 155. [[Min Stack]](https://leetcode.com/problems/min-stack/description/) [Python]()
+62. [[Unique Paths]](https://leetcode.com/problems/unique-paths/description/) [Python]()
+63. [[Unique Paths II]](https://leetcode.com/problems/unique-paths-ii/description/) [Python]()
 
 ## Graph
 
