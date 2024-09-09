@@ -87,6 +87,7 @@ This repo shows the LC problems I have solved.
 155. [[Min Stack]](https://leetcode.com/problems/min-stack/description/) [Python]()
 62. [[Unique Paths]](https://leetcode.com/problems/unique-paths/description/) [Python]()
 63. [[Unique Paths II]](https://leetcode.com/problems/unique-paths-ii/description/) [Python]()
+343. [[Integer Break]](https://leetcode.com/problems/integer-break/description/) [Python]()
 
 ## Graph
 
