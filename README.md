@@ -2,9 +2,9 @@
 
 This repo shows the LC problems I have solved.
 
-共 70 题（含 README 已收录 67 题 + 补录仓库遗漏 3 题）· 完成时间为北京时间（UTC+8），取自 git 提交时间
+Complete time is Beijing timen (UTC+8) from git push time
 
-| 题目类型 | 题目 | 完成时间 | LeetCode 链接 |
+| Type | Question | Time stamp | LeetCode link |
 |---|---|---|---|
 | Dynamic Programming | 343. Integer Break | 2024-09-10 04:06 | [链接](https://leetcode.com/problems/integer-break/description/) |
 | Dynamic Programming | 63. Unique Paths II | 2024-09-09 03:49 | [链接](https://leetcode.com/problems/unique-paths-ii/description/) |
