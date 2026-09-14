@@ -7,18 +7,19 @@
 class Solution:
     def diameterOfBinaryTree(self, root: Optional[TreeNode]) -> int:
         max_diameter = 0
-        def height(node):
+        def traverse(node):
             nonlocal max_diameter
             if node is None: return 0
-            left_h = height(node.left)
-            right_h = height(node.right)
-            diameter = left_h + right_h
-            max_diameter = max(max_diameter, diameter)
+            left_h = traverse(node.left)
+            right_h = traverse(node.right)
+            max_diameter = max(max_diameter, left_h + right_h) # update the diameter in each node
             return max(left_h, right_h) + 1
 
-        left_height = height(root.left)
-        right_height = height(root.right)
-        diameter = left_height + right_height
-        max_diameter = max(max_diameter, diameter)
+        # left_height = traverse(root.left)
+        # right_height = traverse(root.right)
+        # diameter = left_height + right_height
+        # max_diameter = max(max_diameter, diameter)
+        # double calculate the diameter through root
+        traverse(root)
 
         return max_diameter
