@@ -7,20 +7,17 @@
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
         # cross-traverse value
-        prev = None
-        def traverse(node):
-            nonlocal prev
+        # upper and lower zone
+        def check(node, low, high):
             if node is None: return True
             # judge if left subtree is valid
-            if traverse(node.left) is False:
+            if node.val <= low or node.val >= high:
                 return False
-            # if prev and node.val <= prev: wrong, because when prev is 0 then it's false
-            if prev is not None and node.val <= prev:
+            if check(node.left, low, node.val) is False:
                 return False
-            prev = node.val
             # judge if right subtree is valid
-            if traverse(node.right) is False:
+            if check(node.right, node.val, high) is False:
                 return False
             return True
 
-        return traverse(root)
+        return check(root, float('-inf'), float('inf'))
