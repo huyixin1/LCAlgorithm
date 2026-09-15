@@ -9,12 +9,10 @@ LCAlgorithm/
 ├── README.md          # 本文件（仓库说明）
 ├── 1round/            # 第一轮刷题（Round 1，已归档）
 │   ├── README.md      # 第一轮题目总表（类型 | 题目 | 完成时间 | LeetCode 链接）
-│   ├── solutions/     # 第一轮题解代码（13 个主题分类：Array/Binary Tree/Dynamic/...）
+│   └── solutions/     # 第一轮题解代码（13 个主题分类：Array/Binary Tree/Dynamic/...）
+├── 2round/            # 第二轮刷题（Round 2）
+│   ├── notes-2round/  # 第二轮笔记（刷题计划、错题集、学习笔记）
 │   └── <题号>-<题名>/ # LeetSync 自动生成的题号文件夹（101-symmetric-tree 等）
-├── notes-2round/      # 第二轮刷题笔记
-│   ├── 刷题计划.md
-│   ├── 错题集.md
-│   └── 学习笔记.md
 └── push.ps1           # 一键推送脚本
 ```
 
